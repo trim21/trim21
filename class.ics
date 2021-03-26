@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ustc timetable//timetable//CN
-DESCRIPTION:generated on 2021-03-22
+DESCRIPTION:Author: Trim21\ngenerated on 2021-03-22
 TZID:Asia/Shanghai
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
