@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ustc timetable//timetable//CN
 TZID:Asia/Shanghai
-UID:Trim21 / 2021-03-22
+UID:Trim21 / 2021-03-22T00:00:00
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 SUMMARY:大气光谱遥感
