@@ -12,3 +12,11 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (2 days ago)
 - [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (2 days ago)
 - [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (2 days ago)
+
+#### 👨‍💻 Repositories I created recently
+
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client
+- [trim21/rdfind2](https://github.com/trim21/rdfind2)
+- [trim21/got-type](https://github.com/trim21/got-type)
+- [trim21/stream-chunk-iter](https://github.com/trim21/stream-chunk-iter)
+- [trim21/actions](https://github.com/trim21/actions)
