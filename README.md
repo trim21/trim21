@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (today)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 day ago)
-- [rmartin16/qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent&#39;s Web API (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (3 days ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (3 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (today)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (1 day ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 day ago)
+- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (1 day ago)
+- [bangumi/github-bot](https://github.com/bangumi/github-bot) - github bot to help link contributers with bangumi (1 day ago)
 
 #### Repositories I created recently
 
