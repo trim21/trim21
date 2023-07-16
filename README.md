@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (today)
-- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (1 day ago)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 day ago)
-- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (1 day ago)
-- [bangumi/github-bot](https://github.com/bangumi/github-bot) - github bot to help link contributers with bangumi (1 day ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (2 days ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (2 days ago)
+- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (2 days ago)
+- [bangumi/github-bot](https://github.com/bangumi/github-bot) - github bot to help link contributers with bangumi (2 days ago)
 
 #### Repositories I created recently
 
