@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (2 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 days ago)
-- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (4 days ago)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (4 days ago)
-- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (4 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 day ago)
+- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (1 day ago)
 
 #### Repositories I created recently
 
