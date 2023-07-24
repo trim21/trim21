@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (today)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (3 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (4 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (1 day ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 day ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (2 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (2 days ago)
 
 #### Repositories I created recently
 
