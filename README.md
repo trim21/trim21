@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (3 days ago)
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework (3 days ago)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (4 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (4 days ago)
 
 #### Repositories I created recently
 
