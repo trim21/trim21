@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/telegram-notification-bot](https://github.com/bangumi/telegram-notification-bot) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (3 days ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (3 days ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (4 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (5 days ago)
+- [bangumi/telegram-notification-bot](https://github.com/bangumi/telegram-notification-bot) -  (2 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (4 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (4 days ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (5 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (6 days ago)
 
 #### Repositories I created recently
 
