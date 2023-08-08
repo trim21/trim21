@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (5 days ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (5 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (5 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (6 days ago)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (6 days ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (today)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (6 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (6 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (6 days ago)
 
 #### Repositories I created recently
 
