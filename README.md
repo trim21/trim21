@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (2 days ago)
-- [jonhadfield/python-hosts](https://github.com/jonhadfield/python-hosts) - a hosts file manager library written in python (3 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (6 days ago)
-- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (1 week ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 week ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (today)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (today)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (3 days ago)
+- [jonhadfield/python-hosts](https://github.com/jonhadfield/python-hosts) - a hosts file manager library written in python (4 days ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 week ago)
 
 #### Repositories I created recently
 
