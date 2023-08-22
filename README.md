@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 days ago)
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (3 days ago)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (6 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (4 days ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 week ago)
 - [jonhadfield/python-hosts](https://github.com/jonhadfield/python-hosts) - a hosts file manager library written in python (1 week ago)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 week ago)
 
