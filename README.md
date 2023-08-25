@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 day ago)
-- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (2 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 days ago)
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (6 days ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (2 days ago)
+- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (3 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (4 days ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (1 week ago)
 - [jonhadfield/python-hosts](https://github.com/jonhadfield/python-hosts) - a hosts file manager library written in python (1 week ago)
 
 #### Repositories I created recently
