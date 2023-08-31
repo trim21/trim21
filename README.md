@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
+- [trim21/commandTray](https://github.com/trim21/commandTray) -  (1 day ago)
 - [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 week ago)
 - [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (1 week ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 week ago)
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (1 week ago)
-- [jonhadfield/python-hosts](https://github.com/jonhadfield/python-hosts) - a hosts file manager library written in python (2 weeks ago)
 
 #### Repositories I created recently
 
