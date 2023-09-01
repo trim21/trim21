@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
-- [trim21/commandTray](https://github.com/trim21/commandTray) -  (1 day ago)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 week ago)
-- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (1 week ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (today)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 day ago)
+- [trim21/commandTray](https://github.com/trim21/commandTray) -  (2 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
 
 #### Repositories I created recently
 
