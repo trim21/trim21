@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (today)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 day ago)
-- [trim21/commandTray](https://github.com/trim21/commandTray) -  (2 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [trim21/flexget-plugins](https://github.com/trim21/flexget-plugins) -  (1 day ago)
+- [trim21/cactbot-importer](https://github.com/trim21/cactbot-importer) -  (1 day ago)
+- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (1 day ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (1 day ago)
 
 #### Repositories I created recently
 
