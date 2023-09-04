@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (today)
+- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (today)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (today)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (today)
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can&#39;t refuse (1 day ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (1 day ago)
-- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (3 days ago)
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (3 days ago)
-- [trim21/cactbot-importer](https://github.com/trim21/cactbot-importer) -  (3 days ago)
 
 #### Repositories I created recently
 
