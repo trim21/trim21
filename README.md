@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (1 day ago)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (2 days ago)
-- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (2 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (2 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (2 days ago)
+- [batkiz/backit](https://github.com/batkiz/backit) - a scoop bucket (1 day ago)
+- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (2 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (3 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 days ago)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (3 days ago)
 
 #### Repositories I created recently
 
