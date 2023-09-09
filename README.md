@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
-- [batkiz/backit](https://github.com/batkiz/backit) - a scoop bucket (2 days ago)
-- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (3 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (4 days ago)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (4 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (1 day ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (2 days ago)
+- [batkiz/backit](https://github.com/batkiz/backit) - a scoop bucket (3 days ago)
+- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (4 days ago)
 
 #### Repositories I created recently
 
