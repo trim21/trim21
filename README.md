@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (2 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 days ago)
-- [batkiz/backit](https://github.com/batkiz/backit) - a scoop bucket (4 days ago)
-- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (5 days ago)
+- [bangumi/github-bot](https://github.com/bangumi/github-bot) - github bot to help link contributers with bangumi (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (3 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (4 days ago)
+- [batkiz/backit](https://github.com/batkiz/backit) - a scoop bucket (5 days ago)
 
 #### Repositories I created recently
 
