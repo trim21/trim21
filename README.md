@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (1 day ago)
-- [bangumi/github-bot](https://github.com/bangumi/github-bot) - github bot to help link contributers with bangumi (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (4 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (5 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
+- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (2 days ago)
+- [bangumi/github-bot](https://github.com/bangumi/github-bot) - github bot to help link contributers with bangumi (3 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (4 days ago)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (5 days ago)
 
 #### Repositories I created recently
 
