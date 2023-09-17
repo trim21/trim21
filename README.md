@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (4 days ago)
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋 (5 days ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
+- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (5 days ago)
 
 #### Repositories I created recently
 
