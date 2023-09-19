@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (1 day ago)
-- [trim21/go-match](https://github.com/trim21/go-match) - WIP, don&#39;t use it  (3 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 day ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
 
 #### Repositories I created recently
 
