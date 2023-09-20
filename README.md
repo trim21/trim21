@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 day ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 day ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (2 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
+- [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder) - Streamline the Sphinx theme development workflow (maintained, but extremely stable as of Jan 2023) (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (2 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (2 days ago)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (3 days ago)
 
 #### Repositories I created recently
 
