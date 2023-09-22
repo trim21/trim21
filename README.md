@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder) - Streamline the Sphinx theme development workflow (maintained, but extremely stable as of Jan 2023) (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (3 days ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 days ago)
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (4 days ago)
+- [erikreed/pydupes](https://github.com/erikreed/pydupes) - A duplicate file finder like rdfind/fdupes et al that may be faster in environments with millions of files and terabytes of data or over high latency filesystems (e.g. NFS). (today)
+- [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder) - Streamline the Sphinx theme development workflow (maintained, but extremely stable as of Jan 2023) (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (3 days ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (4 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (4 days ago)
 
 #### Repositories I created recently
 
