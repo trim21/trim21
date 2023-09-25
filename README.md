@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [erikreed/pydupes](https://github.com/erikreed/pydupes) - A duplicate file finder like rdfind/fdupes et al that may be faster in environments with millions of files and terabytes of data or over high latency filesystems (e.g. NFS). (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder) - Streamline the Sphinx theme development workflow (maintained, but extremely stable as of Jan 2023) (4 days ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (5 days ago)
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (6 days ago)
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (1 day ago)
+- [erikreed/pydupes](https://github.com/erikreed/pydupes) - A duplicate file finder like rdfind/fdupes et al that may be faster in environments with millions of files and terabytes of data or over high latency filesystems (e.g. NFS). (3 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder) - Streamline the Sphinx theme development workflow (maintained, but extremely stable as of Jan 2023) (5 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (6 days ago)
 
 #### Repositories I created recently
 
