@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (1 day ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (4 days ago)
-- [erikreed/pydupes](https://github.com/erikreed/pydupes) - A duplicate file finder like rdfind/fdupes et al that may be faster in environments with millions of files and terabytes of data or over high latency filesystems (e.g. NFS). (4 days ago)
-- [pradyunsg/sphinx-theme-builder](https://github.com/pradyunsg/sphinx-theme-builder) - Streamline the Sphinx theme development workflow (maintained, but extremely stable as of Jan 2023) (6 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (2 days ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (2 days ago)
 
 #### Repositories I created recently
 
