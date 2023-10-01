@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (1 day ago)
 - [trim21/rdfind2](https://github.com/trim21/rdfind2) -  (1 day ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (4 days ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (4 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (4 days ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (1 day ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
 
 #### Repositories I created recently
 
