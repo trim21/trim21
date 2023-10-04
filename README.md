@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [ducktors/fastify-socket.io](https://github.com/ducktors/fastify-socket.io) - Fastify plugin for Socket.io (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (3 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (1 day ago)
+- [ducktors/fastify-socket.io](https://github.com/ducktors/fastify-socket.io) - Fastify plugin for Socket.io (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (3 days ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (3 days ago)
 
 #### Repositories I created recently
 
