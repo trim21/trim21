@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/commandTray](https://github.com/trim21/commandTray) -  (2 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (3 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (4 days ago)
-- [ducktors/fastify-socket.io](https://github.com/ducktors/fastify-socket.io) - Fastify plugin for Socket.io (5 days ago)
+- [trim21/commandTray](https://github.com/trim21/commandTray) -  (3 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (4 days ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (4 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (5 days ago)
+- [ducktors/fastify-socket.io](https://github.com/ducktors/fastify-socket.io) - Fastify plugin for Socket.io (6 days ago)
 
 #### Repositories I created recently
 
