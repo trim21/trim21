@@ -7,7 +7,7 @@
 
 #### I'm currently working on
 
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
 - [trim21/commandTray](https://github.com/trim21/commandTray) -  (1 week ago)
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 week ago)
 - [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (1 week ago)
