@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
 - [trim21/commandTray](https://github.com/trim21/commandTray) -  (1 week ago)
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 week ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用 (1 week ago)
 - [ducktors/fastify-socket.io](https://github.com/ducktors/fastify-socket.io) - Fastify plugin for Socket.io (1 week ago)
 
 #### Repositories I created recently
