@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (4 days ago)
-- [trim21/commandTray](https://github.com/trim21/commandTray) -  (1 week ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (5 days ago)
+- [trim21/commandTray](https://github.com/trim21/commandTray) -  (2 weeks ago)
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (2 weeks ago)
 
 #### Repositories I created recently
