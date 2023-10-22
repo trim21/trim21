@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (2 days ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (3 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (5 days ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (3 days ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (4 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (6 days ago)
 - [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (1 week ago)
-- [trim21/commandTray](https://github.com/trim21/commandTray) -  (2 weeks ago)
 
 #### Repositories I created recently
 
