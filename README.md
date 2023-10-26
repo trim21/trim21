@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (2 days ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (2 days ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (3 days ago)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (4 days ago)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (6 days ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (3 days ago)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (3 days ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (4 days ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (5 days ago)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (1 week ago)
 
 #### Repositories I created recently
 
