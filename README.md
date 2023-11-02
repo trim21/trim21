@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/imagesync](https://github.com/trim21/imagesync) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (5 days ago)
-- [trim21/webpack-userscript-template](https://github.com/trim21/webpack-userscript-template) - template to build userscript with webpack (5 days ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 week ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 week ago)
+- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (1 day ago)
+- [trim21/userscript-metadata-generator](https://github.com/trim21/userscript-metadata-generator) -  (1 day ago)
+- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (1 day ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
+- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (1 day ago)
 
 #### Repositories I created recently
 
