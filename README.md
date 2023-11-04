@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (2 days ago)
-- [trim21/userscript-metadata-generator](https://github.com/trim21/userscript-metadata-generator) -  (2 days ago)
-- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (2 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
-- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (2 days ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 day ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 day ago)
+- [trim21/pkg](https://github.com/trim21/pkg) - some go packages (3 days ago)
+- [trim21/userscript-metadata-generator](https://github.com/trim21/userscript-metadata-generator) -  (3 days ago)
+- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (3 days ago)
 
 #### Repositories I created recently
 
