@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (3 days ago)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (3 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (5 days ago)
-- [trim21/userscript-metadata-generator](https://github.com/trim21/userscript-metadata-generator) -  (5 days ago)
-- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (5 days ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 day ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 day ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (4 days ago)
+- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (6 days ago)
 
 #### Repositories I created recently
 
