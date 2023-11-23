@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 day ago)
-- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (1 day ago)
-- [trim21-archive/renovate-bot-bug-toml-crlf](https://github.com/trim21-archive/renovate-bot-bug-toml-crlf) -  (1 day ago)
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (1 day ago)
+- [trim21-archive/renovate-bot-bug-toml-crlf](https://github.com/trim21-archive/renovate-bot-bug-toml-crlf) -  (2 days ago)
+- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (2 days ago)
 - [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (1 week ago)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 week ago)
 
 #### Repositories I created recently
 
