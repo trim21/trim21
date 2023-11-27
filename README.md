@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (4 days ago)
-- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (4 days ago)
-- [trim21-archive/renovate-bot-bug-toml-crlf](https://github.com/trim21-archive/renovate-bot-bug-toml-crlf) -  (5 days ago)
-- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (5 days ago)
-- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (1 week ago)
+- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (1 day ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (5 days ago)
+- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (5 days ago)
+- [trim21-archive/renovate-bot-bug-toml-crlf](https://github.com/trim21-archive/renovate-bot-bug-toml-crlf) -  (6 days ago)
+- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (6 days ago)
 
 #### Repositories I created recently
 
