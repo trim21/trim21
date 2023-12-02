@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 day ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
-- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (3 days ago)
-- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (5 days ago)
-- [minio/minio-py](https://github.com/minio/minio-py) - MinIO Client SDK for Python (1 week ago)
+- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (1 day ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (1 day ago)
+- [trim21/userscript-metadata-webpack-plugin](https://github.com/trim21/userscript-metadata-webpack-plugin) - A webpack plugin help you to build userscript (1 day ago)
 
 #### Repositories I created recently
 
