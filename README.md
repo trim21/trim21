@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (2 days ago)
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (2 days ago)
-- [trim21/userscript-metadata-webpack-plugin](https://github.com/trim21/userscript-metadata-webpack-plugin) - A webpack plugin help you to build userscript (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [trim21/userscript-metadata-webpack-plugin](https://github.com/trim21/userscript-metadata-webpack-plugin) - A webpack plugin help you to build userscript (3 days ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (3 days ago)
+- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (3 days ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (3 days ago)
 
 #### Repositories I created recently
 
