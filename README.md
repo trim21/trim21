@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (4 days ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (4 days ago)
-- [bangumi/proto](https://github.com/bangumi/proto) -  (6 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (6 days ago)
-- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (6 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (5 days ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (5 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 week ago)
+- [bangumi/proto](https://github.com/bangumi/proto) -  (1 week ago)
+- [bangumi/dev-docs](https://github.com/bangumi/dev-docs) - development documents / 开发文档 (1 week ago)
 
 #### Repositories I created recently
 
