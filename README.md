@@ -7,8 +7,8 @@
 
 #### I'm currently working on
 
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (6 days ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (6 days ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 week ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 week ago)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 week ago)
 - [bangumi/proto](https://github.com/bangumi/proto) -  (1 week ago)
 - [bangumi/dev-docs](https://github.com/bangumi/dev-docs) - development documents / 开发文档 (1 week ago)
