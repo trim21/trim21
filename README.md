@@ -9,8 +9,8 @@
 
 - [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 weeks ago)
 - [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (2 weeks ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (3 weeks ago)
-- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (3 weeks ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (4 weeks ago)
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (4 weeks ago)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (4 weeks ago)
 
 #### Repositories I created recently
