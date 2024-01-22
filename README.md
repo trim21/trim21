@@ -8,9 +8,9 @@
 #### I'm currently working on
 
 - [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 weeks ago)
-- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (2 weeks ago)
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 month ago)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (3 weeks ago)
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript (1 month ago)
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3 (1 month ago)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 month ago)
 
 #### Repositories I created recently
