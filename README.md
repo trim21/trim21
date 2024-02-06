@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (3 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (4 days ago)
-- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (6 days ago)
-- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (6 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (6 days ago)
+- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (4 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (5 days ago)
+- [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (1 week ago)
+- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (1 week ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 week ago)
 
 #### Repositories I created recently
 
