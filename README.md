@@ -7,7 +7,7 @@
 
 #### I'm currently working on
 
-- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (6 days ago)
+- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (1 week ago)
 - [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 week ago)
 - [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv) -  (1 week ago)
 - [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (1 week ago)
