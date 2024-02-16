@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (4 days ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (5 days ago)
-- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (1 week ago)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (5 days ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (6 days ago)
+- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (2 weeks ago)
 - [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 weeks ago)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 weeks ago)
 
