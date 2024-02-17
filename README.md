@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (5 days ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (6 days ago)
-- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (2 weeks ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 weeks ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 weeks ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/snakefood3](https://github.com/trim21/snakefood3) - python3 dependency graphs generator (6 days ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 week ago)
 
 #### Repositories I created recently
 
