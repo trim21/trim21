@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app (1 day ago)
-- [trim21/funding](https://github.com/trim21/funding) -  (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app (2 days ago)
+- [trim21/funding](https://github.com/trim21/funding) -  (3 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (4 days ago)
 - [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 week ago)
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 week ago)
 
