@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app (3 days ago)
-- [trim21/funding](https://github.com/trim21/funding) -  (4 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (5 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 week ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 week ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app (4 days ago)
+- [trim21/funding](https://github.com/trim21/funding) -  (5 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (6 days ago)
 
 #### Repositories I created recently
 
