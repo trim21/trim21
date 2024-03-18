@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (4 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (4 days ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (5 days ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (5 days ago)
 - [probot/create-probot-app](https://github.com/probot/create-probot-app) - 🤖📦 Create a new probot app (1 week ago)
 - [trim21/funding](https://github.com/trim21/funding) -  (1 week ago)
 
