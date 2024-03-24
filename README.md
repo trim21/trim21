@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (today)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (2 days ago)
-- [trim21/funding](https://github.com/trim21/funding) -  (2 days ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (1 day ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (3 days ago)
+- [trim21/funding](https://github.com/trim21/funding) -  (3 days ago)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 week ago)
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 week ago)
 
