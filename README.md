@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (2 days ago)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (4 days ago)
-- [trim21/funding](https://github.com/trim21/funding) -  (4 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (3 days ago)
+- [trim21/funding](https://github.com/trim21/funding) -  (5 days ago)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 week ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 week ago)
 
 #### Repositories I created recently
 
