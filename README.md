@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
-- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
-- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (5 days ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 day ago)
+- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (2 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (3 days ago)
+- [trim21/poetry-plugin-bump](https://github.com/trim21/poetry-plugin-bump) -  (6 days ago)
 
 #### Repositories I created recently
 
