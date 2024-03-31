@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (1 day ago)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (2 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (3 days ago)
-- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (3 days ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (4 days ago)
+- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (2 days ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (3 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool. (4 days ago)
+- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (4 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (5 days ago)
 
 #### Repositories I created recently
 
