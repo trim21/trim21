@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
-- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (4 days ago)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (5 days ago)
-- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (6 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (3 days ago)
+- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (5 days ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (6 days ago)
+- [trim21/docker-flexget](https://github.com/trim21/docker-flexget) -  (1 week ago)
 
 #### Repositories I created recently
 
