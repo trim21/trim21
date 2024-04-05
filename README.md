@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (4 days ago)
-- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (6 days ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (4 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (5 days ago)
+- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (1 week ago)
 - [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 week ago)
 
 #### Repositories I created recently
