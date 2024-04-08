@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (1 day ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (3 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (6 days ago)
+- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (2 days ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (4 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 week ago)
 - [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 week ago)
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (1 week ago)
 
