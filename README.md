@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
-- [trim21/py-bencode](https://github.com/trim21/py-bencode) -  (2 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
+- [trim21/py-bencode](https://github.com/trim21/py-bencode) -  (3 days ago)
 - [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (1 week ago)
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 week ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 weeks ago)
 
 #### Repositories I created recently
 
