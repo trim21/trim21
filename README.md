@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
-- [transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control (2 days ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (4 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (today)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 day ago)
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages (1 day ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
 
 #### Repositories I created recently
 
