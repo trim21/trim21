@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (2 days ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
-- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (2 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (3 days ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (today)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (3 days ago)
 
 #### Repositories I created recently
 
