@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (today)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (1 day ago)
-- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (1 day ago)
-- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (today)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (1 day ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (2 days ago)
 
 #### Repositories I created recently
 
