@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (1 day ago)
-- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (2 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (3 days ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (2 days ago)
+- [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers (3 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (3 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (4 days ago)
 
 #### Repositories I created recently
 
+- [trim21/mktorrent.py](https://github.com/trim21/mktorrent.py) - make bittorrent v1 torrent with python
 - [trim21/bencode-py](https://github.com/trim21/bencode-py)
 - [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client
 - [trim21/rdfind2](https://github.com/trim21/rdfind2)
-- [trim21/got-type](https://github.com/trim21/got-type)
