@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (2 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (3 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (5 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (5 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (1 week ago)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (3 days ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (4 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (6 days ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (6 days ago)
 
 #### Repositories I created recently
 
