@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (3 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (4 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (6 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (6 days ago)
+- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (today)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [trim21/test-actions](https://github.com/trim21/test-actions) -  (today)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
 
 #### Repositories I created recently
 
+- [trim21/test-actions](https://github.com/trim21/test-actions)
 - [trim21/mktorrent.py](https://github.com/trim21/mktorrent.py) - make bittorrent v1 torrent with python
 - [trim21/bencode-py](https://github.com/trim21/bencode-py)
 - [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client
-- [trim21/rdfind2](https://github.com/trim21/rdfind2)
