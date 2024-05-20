@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [trim21/sphinx-autodoc_class_signature-bug](https://github.com/trim21/sphinx-autodoc_class_signature-bug) -  (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) -  (1 day ago)
-- [trim21/test-actions](https://github.com/trim21/test-actions) -  (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (1 day ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
 
 #### Repositories I created recently
 
 - [trim21/sphinx-autodoc_class_signature-bug](https://github.com/trim21/sphinx-autodoc_class_signature-bug)
 - [trim21/test-actions](https://github.com/trim21/test-actions)
 - [trim21/mktorrent.py](https://github.com/trim21/mktorrent.py) - make bittorrent v1 torrent with python
-- [trim21/bencode-py](https://github.com/trim21/bencode-py)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library
 - [trim21/bgm38.tv](https://github.com/trim21/bgm38.tv)
