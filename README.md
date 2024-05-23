@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (today)
-- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (1 day ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (3 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (2 days ago)
 
 #### Repositories I created recently
 
