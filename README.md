@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (today)
 - [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (2 days ago)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (4 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (4 days ago)
+- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (1 day ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (3 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (5 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (5 days ago)
 
 #### Repositories I created recently
 
