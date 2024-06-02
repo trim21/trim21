@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
-- [rmartin16/qbittorrent-api](https://github.com/rmartin16/qbittorrent-api) - Python client implementation for qBittorrent&#39;s Web API (2 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (2 days ago)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (today)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
 
 #### Repositories I created recently
 
