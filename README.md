@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (today)
-- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
+- [pypa/auditwheel](https://github.com/pypa/auditwheel) - Auditing and relabeling cross-distribution Linux wheels. (1 day ago)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (1 day ago)
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (2 days ago)
 
 #### Repositories I created recently
 
