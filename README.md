@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
 - [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (2 days ago)
-- [pypa/auditwheel](https://github.com/pypa/auditwheel) - Auditing and relabeling cross-distribution Linux wheels. (3 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (3 days ago)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (3 days ago)
+- [pypa/auditwheel](https://github.com/pypa/auditwheel) - Auditing and relabeling cross-distribution Linux wheels. (4 days ago)
 
 #### Repositories I created recently
 
