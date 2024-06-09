@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (2 days ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
+- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (1 day ago)
+- [trim21/bump-pep621](https://github.com/trim21/bump-pep621) -  (1 day ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 day ago)
 
 #### Repositories I created recently
 
+- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag)
+- [trim21/bump-pep621](https://github.com/trim21/bump-pep621)
 - [trim21/poetry-bug-maybe](https://github.com/trim21/poetry-bug-maybe)
 - [trim21/bep-zh](https://github.com/trim21/bep-zh)
 - [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs)
-- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension.
