@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
-- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (1 day ago)
-- [trim21/bump-pep621](https://github.com/trim21/bump-pep621) -  (1 day ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (2 days ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (2 days ago)
 
 #### Repositories I created recently
 
