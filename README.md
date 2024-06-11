@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (2 days ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (2 days ago)
+- [qbittorrent/wiki](https://github.com/qbittorrent/wiki) - Source repo for the qBittorrent wiki (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (2 days ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (3 days ago)
 
 #### Repositories I created recently
 
