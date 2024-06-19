@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (2 days ago)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (3 days ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (5 days ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (6 days ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (3 days ago)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (4 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (6 days ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 week ago)
 
 #### Repositories I created recently
 
