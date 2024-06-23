@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (6 days ago)
+- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (today)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
+- [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑 (1 day ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 week ago)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 week ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 week ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 week ago)
 
 #### Repositories I created recently
 
