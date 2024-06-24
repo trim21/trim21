@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (today)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
-- [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑 (1 day ago)
+- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (1 day ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
+- [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑 (2 days ago)
 - [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 week ago)
 - [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (1 week ago)
 
