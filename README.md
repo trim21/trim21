@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (today)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (1 day ago)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑 (5 days ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
+- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (1 day ago)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑 (6 days ago)
 
 #### Repositories I created recently
 
