@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
-- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (2 days ago)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (3 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (4 days ago)
-- [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑 (1 week ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 day ago)
+- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (3 days ago)
 
 #### Repositories I created recently
 
