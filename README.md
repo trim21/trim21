@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
+- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (today)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (today)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 day ago)
-- [trim21/bencode-c](https://github.com/trim21/bencode-c) - python bencode serialize/deserialize written in native c extension. (3 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 day ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (2 days ago)
 
 #### Repositories I created recently
 
