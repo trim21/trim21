@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/gh-bot](https://github.com/trim21/gh-bot) -  (today)
-- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 day ago)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (2 days ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (today)
+- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files. (1 day ago)
+- [trim21/bump-pep621](https://github.com/trim21/bump-pep621) -  (1 day ago)
+- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (1 day ago)
 
 #### Repositories I created recently
 
