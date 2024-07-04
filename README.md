@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (1 day ago)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
-- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (1 day ago)
-- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (2 days ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (2 days ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (2 days ago)
+- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (2 days ago)
+- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (3 days ago)
 
 #### Repositories I created recently
 
