@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (3 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (3 days ago)
-- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (3 days ago)
-- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (4 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (4 days ago)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (4 days ago)
+- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (4 days ago)
 
 #### Repositories I created recently
 
