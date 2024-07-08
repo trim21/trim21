@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [trim21/tyr](https://github.com/trim21/tyr) -  (today)
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (2 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (5 days ago)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (5 days ago)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (3 days ago)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (6 days ago)
+- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (6 days ago)
 
 #### Repositories I created recently
 
