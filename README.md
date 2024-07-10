@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
-- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (today)
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 days ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (4 days ago)
+- [trim21/errgo](https://github.com/trim21/errgo) -  (today)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (1 day ago)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (3 days ago)
 
 #### Repositories I created recently
 
