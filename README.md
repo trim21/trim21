@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [trim21/errgo](https://github.com/trim21/errgo) -  (1 day ago)
-- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (2 days ago)
-- [trim21/tyr](https://github.com/trim21/tyr) -  (2 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [trim21/errgo](https://github.com/trim21/errgo) -  (2 days ago)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (3 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (3 days ago)
 
 #### Repositories I created recently
 
