@@ -7,9 +7,9 @@
 
 #### I'm currently working on
 
-- [trim21/tyr](https://github.com/trim21/tyr) -  (today)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (3 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (6 days ago)
+- [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (4 days ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 week ago)
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 week ago)
 - [trim21/errgo](https://github.com/trim21/errgo) -  (1 week ago)
 
