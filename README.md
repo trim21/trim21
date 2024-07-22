@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (1 day ago)
 - [trim21/tyr](https://github.com/trim21/tyr) -  (1 day ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (4 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 week ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (5 days ago)
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 week ago)
-- [trim21/errgo](https://github.com/trim21/errgo) -  (1 week ago)
 
 #### Repositories I created recently
 
+- [trim21/go-bencode](https://github.com/trim21/go-bencode)
 - [trim21/tyr](https://github.com/trim21/tyr)
 - [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag)
 - [trim21/bump-pep621](https://github.com/trim21/bump-pep621)
 - [trim21/poetry-bug-maybe](https://github.com/trim21/poetry-bug-maybe)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh)
