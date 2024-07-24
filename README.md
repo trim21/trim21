@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [trim21/neptune](https://github.com/trim21/neptune) -  (1 day ago)
+- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (1 day ago)
 - [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
-- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (2 days ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (6 days ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (2 days ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 week ago)
 
 #### Repositories I created recently
 
