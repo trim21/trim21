@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (today)
-- [trim21/go-dht](https://github.com/trim21/go-dht) -  (1 day ago)
-- [trim21/imagesync](https://github.com/trim21/imagesync) -  (1 day ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (2 days ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (5 days ago)
+- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (1 day ago)
+- [trim21/go-dht](https://github.com/trim21/go-dht) -  (2 days ago)
+- [trim21/imagesync](https://github.com/trim21/imagesync) -  (2 days ago)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (3 days ago)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (6 days ago)
 
 #### Repositories I created recently
 
