@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access (today)
-- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (2 days ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (3 days ago)
-- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (3 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (5 days ago)
+- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (today)
+- [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access (1 day ago)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (4 days ago)
+- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (4 days ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (6 days ago)
 
 #### Repositories I created recently
 
