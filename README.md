@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
+- [trim21/zerolog-as-slog-handler](https://github.com/trim21/zerolog-as-slog-handler) -  (today)
 - [trim21/neptune](https://github.com/trim21/neptune) -  (today)
-- [trim21/geoip-country](https://github.com/trim21/geoip-country) -  (2 days ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (3 days ago)
-- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (4 days ago)
+- [trim21/geoip-country](https://github.com/trim21/geoip-country) -  (3 days ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (3 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (4 days ago)
 
 #### Repositories I created recently
 
+- [trim21/zerolog-as-slog-handler](https://github.com/trim21/zerolog-as-slog-handler)
 - [trim21/geoip-country](https://github.com/trim21/geoip-country)
 - [trim21/go-dht](https://github.com/trim21/go-dht)
 - [trim21/neptune](https://github.com/trim21/neptune)
 - [trim21/go-bencode](https://github.com/trim21/go-bencode)
-- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag)
