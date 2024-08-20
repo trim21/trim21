@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (today)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (4 days ago)
-- [trim21/imagesync](https://github.com/trim21/imagesync) -  (4 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (1 day ago)
+- [trim21/imagesync](https://github.com/trim21/imagesync) -  (5 days ago)
 
 #### Repositories I created recently
 
