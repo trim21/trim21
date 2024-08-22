@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (2 days ago)
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (3 days ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (3 days ago)
 
 #### Repositories I created recently
 
