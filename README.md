@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (1 day ago)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (2 days ago)
 
 #### Repositories I created recently
 
