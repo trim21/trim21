@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject) -  (1 day ago)
 
 #### Repositories I created recently
 
