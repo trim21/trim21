@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject) -  (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
 
 #### Repositories I created recently
 
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages)
 - [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject)
 - [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs)
 - [trim21/pypika-stubs](https://github.com/trim21/pypika-stubs)
 - [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood
-- [trim21/bep14](https://github.com/trim21/bep14)
