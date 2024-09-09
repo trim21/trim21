@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/common](https://github.com/bangumi/common) -  (today)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID (today)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (1 day ago)
 
 #### Repositories I created recently
 
