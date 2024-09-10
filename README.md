@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/dev-docs](https://github.com/bangumi/dev-docs) - development documents / 开发文档 (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
 - [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID (today)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 
 #### Repositories I created recently
 
