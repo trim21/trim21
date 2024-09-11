@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [bangumi/dev-docs](https://github.com/bangumi/dev-docs) - development documents / 开发文档 (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
-- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID (today)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 
 #### Repositories I created recently
