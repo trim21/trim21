@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
-- [sbdchd/msgpack-types](https://github.com/sbdchd/msgpack-types) - :package: Type stubs for msgpack (today)
 - [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (today)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 
 #### Repositories I created recently
