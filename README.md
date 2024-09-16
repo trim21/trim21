@@ -8,15 +8,15 @@
 #### I'm currently working on
 
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
 - [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
 
 #### Repositories I created recently
 
+- [trim21/sslog](https://github.com/trim21/sslog)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages)
 - [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject)
 - [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs)
 - [trim21/pypika-stubs](https://github.com/trim21/pypika-stubs)
-- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood
