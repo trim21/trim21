@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (today)
-- [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python (today)
-- [bangumi/common](https://github.com/bangumi/common) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
 
 #### Repositories I created recently
 
