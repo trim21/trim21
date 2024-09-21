@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [bangumi/dev-docs](https://github.com/bangumi/dev-docs) - development documents / 开发文档 (today)
+- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [trim21/sslog](https://github.com/trim21/sslog) -  (1 day ago)
 
 #### Repositories I created recently
 
