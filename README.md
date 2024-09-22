@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/dev-docs](https://github.com/bangumi/dev-docs) - development documents / 开发文档 (today)
-- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (today)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [aviramha/ormsgpack](https://github.com/aviramha/ormsgpack) - Msgpack serialization/deserialization library for Python, written in Rust using PyO3 and rust-msgpack. Reboot of orjson. msgpack.org[Python] (today)
+- [bangumi/graphql-gateway](https://github.com/bangumi/graphql-gateway) -  (today)
 
 #### Repositories I created recently
 
