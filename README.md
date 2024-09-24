@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [graphql-python/graphql-core](https://github.com/graphql-python/graphql-core) - A Python 3.6&#43; port of the GraphQL.js reference implementation of GraphQL. (today)
-- [bangumi/common](https://github.com/bangumi/common) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript  (today)
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟 (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 
 #### Repositories I created recently
 
