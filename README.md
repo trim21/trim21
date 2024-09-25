@@ -8,15 +8,15 @@
 #### I'm currently working on
 
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
-- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript  (today)
+- [bangumi/common](https://github.com/bangumi/common) -  (today)
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟 (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (today)
 
 #### Repositories I created recently
 
+- [trim21/pp](https://github.com/trim21/pp)
 - [trim21/sslog](https://github.com/trim21/sslog)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages)
 - [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject)
 - [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs)
-- [trim21/pypika-stubs](https://github.com/trim21/pypika-stubs)
