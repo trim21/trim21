@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/common](https://github.com/bangumi/common) -  (today)
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟 (today)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
-- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
 
 #### Repositories I created recently
 
