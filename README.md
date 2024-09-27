@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
 - [trim21/sslog](https://github.com/trim21/sslog) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 
 #### Repositories I created recently
 
