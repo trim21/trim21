@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
+- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (today)
+- [trim21/php-serialize](https://github.com/trim21/php-serialize) -  (today)
 
 #### Repositories I created recently
 
