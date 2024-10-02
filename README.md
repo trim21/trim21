@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
-- [trim21/install-poetry-project](https://github.com/trim21/install-poetry-project) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [trim21/setup-poetry](https://github.com/trim21/setup-poetry) - github actions to setup poetry (today)
-- [trim21/php-serialize](https://github.com/trim21/php-serialize) -  (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
 
 #### Repositories I created recently
 
