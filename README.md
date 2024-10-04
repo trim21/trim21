@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (today)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
+- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (1 day ago)
 
 #### Repositories I created recently
 
