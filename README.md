@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
 - [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (2 days ago)
 
 #### Repositories I created recently
 
