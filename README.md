@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
 - [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
+- [bangumi/common](https://github.com/bangumi/common) -  (today)
 
 #### Repositories I created recently
 
+- [trim21/confluent-kafka-stubs](https://github.com/trim21/confluent-kafka-stubs)
 - [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py)
 - [trim21/pp](https://github.com/trim21/pp)
 - [trim21/sslog](https://github.com/trim21/sslog)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages)
-- [trim21/bangumi-bad-subject](https://github.com/trim21/bangumi-bad-subject)
