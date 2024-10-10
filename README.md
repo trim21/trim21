@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (today)
+- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (today)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (1 day ago)
 
 #### Repositories I created recently
 
