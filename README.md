@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/bencode-cpp](https://github.com/trim21/bencode-cpp) -  (today)
 - [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (today)
-- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (today)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 
 #### Repositories I created recently
 
