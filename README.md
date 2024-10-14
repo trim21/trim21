@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML (today)
 
 #### Repositories I created recently
 
