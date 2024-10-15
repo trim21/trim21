@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (today)
+- [trim21/pkg](https://github.com/trim21/pkg) - some go packages (today)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML (today)
+- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
 
 #### Repositories I created recently
 
