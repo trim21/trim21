@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (1 day ago)
-- [trim21/pkg](https://github.com/trim21/pkg) - some go packages (1 day ago)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (1 day ago)
 
 #### Repositories I created recently
 
