@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (1 day ago)
+- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (1 day ago)
+- [ddn0/google-re2-stubs](https://github.com/ddn0/google-re2-stubs) -  (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
 
 #### Repositories I created recently
 
