@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (1 day ago)
-- [ddn0/google-re2-stubs](https://github.com/ddn0/google-re2-stubs) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (1 day ago)
 
 #### Repositories I created recently
 
