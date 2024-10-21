@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
+- [trim21-org/bencode-py](https://github.com/trim21-org/bencode-py) -  (today)
 - [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [fastify/fastify-request-context](https://github.com/fastify/fastify-request-context) - Request-scoped storage support, based on Asynchronous Local Storage (with fallback to cls-hooked) (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
 
 #### Repositories I created recently
 
