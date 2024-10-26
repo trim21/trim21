@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (today)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (1 day ago)
+- [trim21/icu-py](https://github.com/trim21/icu-py) -  (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [trim21/rfc3986-stubs](https://github.com/trim21/rfc3986-stubs) -  (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (2 days ago)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (2 days ago)
 
 #### Repositories I created recently
 
+- [trim21/icu-py](https://github.com/trim21/icu-py)
 - [trim21/confluent-kafka-stubs](https://github.com/trim21/confluent-kafka-stubs)
 - [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py)
 - [trim21/pp](https://github.com/trim21/pp)
 - [trim21/sslog](https://github.com/trim21/sslog)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages)
