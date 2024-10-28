@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (today)
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (today)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/icu-py](https://github.com/trim21/icu-py) -  (1 day ago)
+- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
 
 #### Repositories I created recently
 
