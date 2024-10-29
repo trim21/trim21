@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [trim21/sslog](https://github.com/trim21/sslog) -  (today)
-- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [janbjorge/pgqueuer](https://github.com/janbjorge/pgqueuer) - PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing. (today)
+- [bangumi/common](https://github.com/bangumi/common) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
 
 #### Repositories I created recently
 
