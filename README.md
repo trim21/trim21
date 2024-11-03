@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (today)
-- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (1 day ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [trim21/beancount-format](https://github.com/trim21/beancount-format) -  (1 day ago)
-- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 day ago)
+- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (2 days ago)
 
 #### Repositories I created recently
 
