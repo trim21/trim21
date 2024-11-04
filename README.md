@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (1 day ago)
-- [trim21/bencode-hpy](https://github.com/trim21/bencode-hpy) -  (2 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (2 days ago)
 
 #### Repositories I created recently
 
