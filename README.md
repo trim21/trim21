@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [trim21/actions-cron](https://github.com/trim21/actions-cron) -  (2 days ago)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
+- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (today)
+- [trim21/rtorrent-rpc](https://github.com/trim21/rtorrent-rpc) - A typed rtorrent rpc client (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
 
 #### Repositories I created recently
 
