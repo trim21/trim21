@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/re-rs](https://github.com/trim21/re-rs) -  (today)
-- [trim21/rdfind2](https://github.com/trim21/rdfind2) -  (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (3 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [spyoungtech/regexrs](https://github.com/spyoungtech/regexrs) - Rust regex &#43; PyO3 (1 day ago)
+- [trim21/re-rs](https://github.com/trim21/re-rs) -  (1 day ago)
+- [trim21/rdfind2](https://github.com/trim21/rdfind2) -  (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (3 days ago)
 
 #### Repositories I created recently
 
