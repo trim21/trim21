@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
-- [trim21/rdfind2](https://github.com/trim21/rdfind2) -  (4 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (2 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (3 days ago)
+- [trim21/rdfind2](https://github.com/trim21/rdfind2) -  (5 days ago)
 
 #### Repositories I created recently
 
