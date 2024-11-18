@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (2 days ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (3 days ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (4 days ago)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (3 days ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (4 days ago)
 
 #### Repositories I created recently
 
