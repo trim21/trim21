@@ -9,9 +9,9 @@
 
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
 - [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
-- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (3 days ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (4 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
+- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (4 days ago)
 
 #### Repositories I created recently
 
