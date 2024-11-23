@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 - [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
-- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID (1 day ago)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (today)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
 
 #### Repositories I created recently
 
