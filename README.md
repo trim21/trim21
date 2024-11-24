@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (today)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
+- [bangumi/common](https://github.com/bangumi/common) -  (today)
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
+- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (1 day ago)
 
 #### Repositories I created recently
 
