@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (today)
-- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (1 day ago)
-- [bangumi/common](https://github.com/bangumi/common) -  (1 day ago)
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (1 day ago)
+- [trim21/flood-client-py](https://github.com/trim21/flood-client-py) - A python client for https://github.com/jesec/flood (1 day ago)
 
 #### Repositories I created recently
 
