@@ -7,10 +7,10 @@
 
 #### I'm currently working on
 
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
 - [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
 
 #### Repositories I created recently
