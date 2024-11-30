@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
 
 #### Repositories I created recently
 
