@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
-- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (today)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/beancount-format](https://github.com/trim21/beancount-format) -  (1 day ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
 
 #### Repositories I created recently
 
