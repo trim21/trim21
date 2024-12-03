@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/beancount-format](https://github.com/trim21/beancount-format) -  (1 day ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [trim21/beancount-format](https://github.com/trim21/beancount-format) -  (2 days ago)
 
 #### Repositories I created recently
 
