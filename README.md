@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [trim21/fmt-wrap](https://github.com/trim21/fmt-wrap) -  (today)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files. (1 day ago)
-- [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (3 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
 
 #### Repositories I created recently
 
+- [trim21/fmt-wrap](https://github.com/trim21/fmt-wrap)
 - [trim21/pt-repost](https://github.com/trim21/pt-repost)
 - [trim21/re-rs](https://github.com/trim21/re-rs)
 - [trim21/beancount-format](https://github.com/trim21/beancount-format)
 - [trim21/confluent-kafka-stubs](https://github.com/trim21/confluent-kafka-stubs)
-- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py)
