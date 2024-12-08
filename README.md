@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [trim21/fmt-wrap](https://github.com/trim21/fmt-wrap) -  (today)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files. (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/fmt-wrap](https://github.com/trim21/fmt-wrap) -  (1 day ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
 
 #### Repositories I created recently
 
