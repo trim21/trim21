@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages. (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
 
 #### Repositories I created recently
 
