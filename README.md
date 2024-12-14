@@ -8,10 +8,10 @@
 #### I'm currently working on
 
 - [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages. (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
 
 #### Repositories I created recently
 
