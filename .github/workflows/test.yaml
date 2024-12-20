@@ -10,5 +10,9 @@ jobs:
     runs-on: windows-latest
     steps:
       - run: pkg-config --help
+
       - run: pkg-config --libs libpq
+      - run: pkg-config --libs libpq --path
+
       - run: pkg-config --libs zlib
+      - run: pkg-config --libs zlib --path
