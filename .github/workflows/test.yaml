@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - run: pkg-config --help
-      - run: pkg-config.exe --libs libpq
+      - run: pkg-config --libs libpq
