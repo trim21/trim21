@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/htest](https://github.com/trim21/htest) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (3 days ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/htest](https://github.com/trim21/htest) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
 
 #### Repositories I created recently
 
