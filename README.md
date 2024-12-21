@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/htest](https://github.com/trim21/htest) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
+- [trim21/htest](https://github.com/trim21/htest) -  (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
 
 #### Repositories I created recently
 
