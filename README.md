@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
+- [bangumi/wiki-parser-py](https://github.com/bangumi/wiki-parser-py) -  (today)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
+- [beancount/beangulp](https://github.com/beancount/beangulp) - Importers framework for Beancount (today)
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files. (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (2 days ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (2 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
 
 #### Repositories I created recently
 
