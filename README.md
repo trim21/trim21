@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C (today)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (today)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (1 day ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (2 days ago)
 
 #### Repositories I created recently
 
