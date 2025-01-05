@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests (today)
 - [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson) -  (today)
+- [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests (today)
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
+- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (2 days ago)
 
 #### Repositories I created recently
 
