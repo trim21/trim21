@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (today)
-- [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests (1 day ago)
-- [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson) -  (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson) -  (2 days ago)
+- [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests (2 days ago)
 
 #### Repositories I created recently
 
