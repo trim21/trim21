@@ -7,11 +7,11 @@
 
 #### I'm currently working on
 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (today)
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
-- [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson) -  (2 days ago)
-- [mesonbuild/wrapdb](https://github.com/mesonbuild/wrapdb) - New wrap requests (2 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types (today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
 
 #### Repositories I created recently
 
