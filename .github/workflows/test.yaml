@@ -1,0 +1,16 @@
+name: test
+
+on:
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  test:
+    runs-on: windows-latest
+    steps:
+      - run: pkg-config --help
+
+      - run: pkg-config --libs libpq
+
+      - run: pkg-config --libs zlib
