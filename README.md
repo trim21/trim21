@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [jkroso/parse-duration](https://github.com/jkroso/parse-duration) - convert a human readable duration to ms (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [bangumi/frontend](https://github.com/bangumi/frontend) -  (today)
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [trim21/vitest-vite6-bug-reproduce](https://github.com/trim21/vitest-vite6-bug-reproduce) -  (today)
-- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (2 days ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (3 days ago)
+- [trim21/vitest-vite6-bug-reproduce](https://github.com/trim21/vitest-vite6-bug-reproduce) -  (1 day ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (3 days ago)
+- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (3 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (4 days ago)
 - [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 week ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 week ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 week ago)
 - [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson) -  (1 week ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 week ago)
 
 #### Repositories I created recently
 
