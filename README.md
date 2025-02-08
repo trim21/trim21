@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
-- [bangumi/frontend](https://github.com/bangumi/frontend) -  (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [bangumi/service-timeline](https://github.com/bangumi/service-timeline) - 时间胶囊微服务 (today)
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (today)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (today)
 - [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [trim21/sslog](https://github.com/trim21/sslog) -  (1 day ago)
-- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (1 day ago)
-- [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi (2 days ago)
 
 #### Repositories I created recently
 
