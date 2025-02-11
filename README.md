@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/webpack-userscript-template](https://github.com/trim21/webpack-userscript-template) - template to build userscript with webpack (today)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (2 days ago)
-- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (2 days ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
-- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (2 days ago)
+- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/webpack-userscript-template](https://github.com/trim21/webpack-userscript-template) - template to build userscript with webpack (1 day ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (3 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (3 days ago)
+- [bangumi/py-canal](https://github.com/bangumi/py-canal) -  (3 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (3 days ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (3 days ago)
 
 #### Repositories I created recently
 
