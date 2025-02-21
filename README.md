@@ -8,15 +8,15 @@
 #### I'm currently working on
 
 - [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (today)
 - [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (5 days ago)
-- [bangumi/staging](https://github.com/bangumi/staging) -  (6 days ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (3 days ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (3 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (4 days ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (6 days ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 week ago)
 
 #### Repositories I created recently
 
