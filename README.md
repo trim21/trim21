@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (1 day ago)
-- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (1 day ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (2 days ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (3 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (4 days ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (4 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (5 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (1 week ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 week ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language  (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (2 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (2 days ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (3 days ago)
+- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (3 days ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (4 days ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (5 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (5 days ago)
 
 #### Repositories I created recently
 
