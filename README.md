@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (today)
-- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (1 day ago)
-- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language  (1 day ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
-- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (3 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (3 days ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (4 days ago)
-- [trim21/bep-zh](https://github.com/trim21/bep-zh) -  (4 days ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (1 day ago)
+- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (2 days ago)
+- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language  (2 days ago)
+- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (2 days ago)
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (4 days ago)
 
 #### Repositories I created recently
 
