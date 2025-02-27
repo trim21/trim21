@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (2 days ago)
-- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (2 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (3 days ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (3 days ago)
-- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language  (3 days ago)
-- [trim21/gm-fetch](https://github.com/trim21/gm-fetch) - fetch API for `GM.xmlHttpRequest` (3 days ago)
+- [bangumi/scripts](https://github.com/bangumi/scripts) - Userscripts for Bangumi / 用于 Bangumi 的用户脚本 (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
+- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (3 days ago)
+- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (3 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (4 days ago)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (4 days ago)
+- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language  (4 days ago)
 
 #### Repositories I created recently
 
