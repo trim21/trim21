@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [bangumi/scripts](https://github.com/bangumi/scripts) - Userscripts for Bangumi / 用于 Bangumi 的用户脚本 (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 days ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (3 days ago)
-- [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend. (4 days ago)
-- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (4 days ago)
-- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language  (5 days ago)
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (5 days ago)
+- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (today)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (today)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 day ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
 
 #### Repositories I created recently
 
