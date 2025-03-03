@@ -7,21 +7,21 @@
 
 #### I'm currently working on
 
-- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (1 day ago)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (1 day ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (2 days ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/crontab](https://github.com/trim21/crontab) -  (today)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [trim21/changelog-previous-tag](https://github.com/trim21/changelog-previous-tag) -  (2 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (2 days ago)
+- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (2 days ago)
 
 #### Repositories I created recently
 
-- [trim21/staging](https://github.com/trim21/staging)
 - [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo)
-- [trim21/test-git-sha256](https://github.com/trim21/test-git-sha256)
 - [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson)
 - [trim21/asio-loop](https://github.com/trim21/asio-loop)
+- [trim21/libpg](https://github.com/trim21/libpg)
+- [trim21/pt-repost](https://github.com/trim21/pt-repost)
