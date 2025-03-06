@@ -7,21 +7,21 @@
 
 #### I'm currently working on
 
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
-- [trim21/crontab](https://github.com/trim21/crontab) -  (2 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (4 days ago)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (4 days ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (today)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [trim21/crontab](https://github.com/trim21/crontab) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/imagesync](https://github.com/trim21/imagesync) -  (today)
+- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (today)
+- [trim21/pixi-bug-3283](https://github.com/trim21/pixi-bug-3283) -  (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
 
 #### Repositories I created recently
 
+- [trim21/pixi-bug-3283](https://github.com/trim21/pixi-bug-3283)
 - [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo)
 - [trim21/pre-commit-mirror-meson](https://github.com/trim21/pre-commit-mirror-meson)
 - [trim21/asio-loop](https://github.com/trim21/asio-loop)
 - [trim21/libpg](https://github.com/trim21/libpg)
-- [trim21/pt-repost](https://github.com/trim21/pt-repost)
