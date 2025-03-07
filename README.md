@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/actions](https://github.com/trim21/actions) -  (today)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (today)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
 - [trim21/crontab](https://github.com/trim21/crontab) -  (today)
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [trim21/imagesync](https://github.com/trim21/imagesync) -  (today)
-- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (today)
-- [trim21/pixi-bug-3283](https://github.com/trim21/pixi-bug-3283) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/imagesync](https://github.com/trim21/imagesync) -  (1 day ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
+- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (1 day ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (1 day ago)
 
 #### Repositories I created recently
 
