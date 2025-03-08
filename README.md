@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (today)
-- [trim21/crontab](https://github.com/trim21/crontab) -  (today)
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [trim21/imagesync](https://github.com/trim21/imagesync) -  (1 day ago)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (1 day ago)
-- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (1 day ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
+- [trim21/crontab](https://github.com/trim21/crontab) -  (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (2 days ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (2 days ago)
 
 #### Repositories I created recently
 
