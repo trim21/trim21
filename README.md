@@ -8,15 +8,15 @@
 #### I'm currently working on
 
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
-- [trim21/crontab](https://github.com/trim21/crontab) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
-- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (2 days ago)
-- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (2 days ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (2 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
+- [trim21/crontab](https://github.com/trim21/crontab) -  (2 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
+- [trim21/meilisearch-prom-exporter](https://github.com/trim21/meilisearch-prom-exporter) - prometheus exporter for meilisearch (3 days ago)
+- [trim21/downloader-prom-exporter](https://github.com/trim21/downloader-prom-exporter) - bt downloader prometheus exporter (3 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (3 days ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (3 days ago)
 
 #### Repositories I created recently
 
