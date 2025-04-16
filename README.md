@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
 - [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [trim21/crontab](https://github.com/trim21/crontab) -  (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
-- [trim21/dprint-pre-commit](https://github.com/trim21/dprint-pre-commit) -  (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (today)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [trim21/crontab](https://github.com/trim21/crontab) -  (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
 
 #### Repositories I created recently
 
