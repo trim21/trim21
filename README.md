@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (today)
-- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
-- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (1 day ago)
-- [trim21/pixi](https://github.com/trim21/pixi) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (1 day ago)
-- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (today)
+- [bangumi/dev-env](https://github.com/bangumi/dev-env) - development environment quick starter / 后端开发环境 (1 day ago)
+- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (1 day ago)
+- [bangumi/img-proxy](https://github.com/bangumi/img-proxy) - image processing server for bgm.tv (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (1 day ago)
+- [trim21/pixi](https://github.com/trim21/pixi) -  (2 days ago)
+- [trim21/transmission-rpc](https://github.com/trim21/transmission-rpc) -  (2 days ago)
+- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (2 days ago)
 
 #### Repositories I created recently
 
