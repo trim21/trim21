@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [bangumi/clear-old-cache](https://github.com/bangumi/clear-old-cache) -  (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (today)
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (1 day ago)
-- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (1 day ago)
-- [trim21/action-uv-lock-diff-viewer](https://github.com/trim21/action-uv-lock-diff-viewer) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
+- [bangumi/clear-old-cache](https://github.com/bangumi/clear-old-cache) -  (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
+- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (2 days ago)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
+- [trim21/action-uv-lock-diff-viewer](https://github.com/trim21/action-uv-lock-diff-viewer) -  (2 days ago)
+- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
 
 #### Repositories I created recently
 
