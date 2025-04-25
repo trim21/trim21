@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (today)
+- [trim21/php-serialize](https://github.com/trim21/php-serialize) -  (today)
+- [trim21/action-uv-lock-diff-viewer](https://github.com/trim21/action-uv-lock-diff-viewer) -  (today)
+- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (today)
 - [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (1 day ago)
-- [bangumi/clear-old-cache](https://github.com/bangumi/clear-old-cache) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
-- [trim21/scoop-bucket](https://github.com/trim21/scoop-bucket) - 个人自用，请勿使用本仓库。任何应用都随时可能被移除。 (2 days ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (2 days ago)
-- [trim21/action-uv-lock-diff-viewer](https://github.com/trim21/action-uv-lock-diff-viewer) -  (2 days ago)
-- [trim21/blog](https://github.com/trim21/blog) - 个人博客 (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
 
 #### Repositories I created recently
 
