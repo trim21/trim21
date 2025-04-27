@@ -9,14 +9,14 @@
 
 - [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
 - [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [trim21/php-serialize](https://github.com/trim21/php-serialize) -  (1 day ago)
-- [trim21/action-uv-lock-diff-viewer](https://github.com/trim21/action-uv-lock-diff-viewer) -  (1 day ago)
-- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (1 day ago)
-- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (1 day ago)
-- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (2 days ago)
+- [bangumi/wiki-parser-go](https://github.com/bangumi/wiki-parser-go) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [trim21/action-uv-lock-diff-viewer](https://github.com/trim21/action-uv-lock-diff-viewer) -  (2 days ago)
+- [bangumi/wiki-parser](https://github.com/bangumi/wiki-parser) -  (2 days ago)
+- [trim21/php-serialize](https://github.com/trim21/php-serialize) -  (2 days ago)
+- [trim21/bangumi-episode-calendar](https://github.com/trim21/bangumi-episode-calendar) -  (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
 
 #### Repositories I created recently
 
