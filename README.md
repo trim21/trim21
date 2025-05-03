@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/qt6-linux-aarch64-can-not-get-version](https://github.com/trim21/qt6-linux-aarch64-can-not-get-version) -  (today)
-- [trim21/qbittorrent-feedstock](https://github.com/trim21/qbittorrent-feedstock) -  (today)
-- [bangumi/wiki-parser-go](https://github.com/bangumi/wiki-parser-go) -  (today)
-- [trim21/crontab](https://github.com/trim21/crontab) -  (today)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
-- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (2 days ago)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (2 days ago)
-- [trim21/bencode-rs](https://github.com/trim21/bencode-rs) -  (2 days ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi. (2 days ago)
-- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (2 days ago)
+- [trim21/errgo](https://github.com/trim21/errgo) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [trim21/php-serialize](https://github.com/trim21/php-serialize) -  (today)
+- [trim21/china-beancount-importers](https://github.com/trim21/china-beancount-importers) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (today)
+- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (today)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
 
 #### Repositories I created recently
 
