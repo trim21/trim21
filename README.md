@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (today)
-- [trim21/qt6-linux-aarch64-can-not-get-version](https://github.com/trim21/qt6-linux-aarch64-can-not-get-version) -  (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (1 day ago)
-- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (1 day ago)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (1 day ago)
-- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (1 day ago)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (1 day ago)
+- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - The next-generation api backend server for bgm.tv (1 day ago)
+- [trim21/qt6-linux-aarch64-can-not-get-version](https://github.com/trim21/qt6-linux-aarch64-can-not-get-version) -  (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (1 day ago)
+- [trim21/pypika-stubs](https://github.com/trim21/pypika-stubs) -  (2 days ago)
+- [trim21/php-serialize-py](https://github.com/trim21/php-serialize-py) -  (2 days ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
+- [trim21/flood-apt-repo](https://github.com/trim21/flood-apt-repo) -  (2 days ago)
+- [trim21/pt-repost](https://github.com/trim21/pt-repost) -  (2 days ago)
+- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (2 days ago)
 
 #### Repositories I created recently
 
