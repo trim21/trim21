@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (today)
-- [bangumi/wiki-parser-go](https://github.com/bangumi/wiki-parser-go) -  (today)
-- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (today)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (today)
+- [trim21/bep14](https://github.com/trim21/bep14) -  (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
 - [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (today)
-- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [trim21/qbittorrent-feedstock](https://github.com/trim21/qbittorrent-feedstock) -  (today)
-- [trim21/renovate-config](https://github.com/trim21/renovate-config) -  (today)
-- [bangumi/telegram-bot](https://github.com/bangumi/telegram-bot) -  (2 days ago)
-- [trim21/qt6-linux-aarch64-can-not-get-version](https://github.com/trim21/qt6-linux-aarch64-can-not-get-version) -  (3 days ago)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (3 days ago)
+- [trim21/try](https://github.com/trim21/try) - a cli tool to retry command (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [trim21/actions](https://github.com/trim21/actions) -  (today)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (today)
+- [trim21/qbittorrent-feedstock](https://github.com/trim21/qbittorrent-feedstock) -  (1 day ago)
 
 #### Repositories I created recently
 
