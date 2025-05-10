@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
+- [trim21/errgo](https://github.com/trim21/errgo) -  (today)
+- [trim21/dprint-pre-commit](https://github.com/trim21/dprint-pre-commit) -  (today)
 - [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (today)
-- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (1 day ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (1 day ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (1 day ago)
+- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
 - [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/try](https://github.com/trim21/try) - a cli tool to retry command (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (1 day ago)
-- [trim21/bep14](https://github.com/trim21/bep14) -  (1 day ago)
-- [bangumi/wiki-parser-go](https://github.com/bangumi/wiki-parser-go) -  (2 days ago)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (2 days ago)
+- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (2 days ago)
+- [trim21/actions](https://github.com/trim21/actions) -  (2 days ago)
+- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (2 days ago)
 
 #### Repositories I created recently
 
