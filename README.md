@@ -7,21 +7,21 @@
 
 #### I'm currently working on
 
-- [trim21/errgo](https://github.com/trim21/errgo) -  (today)
-- [trim21/dprint-pre-commit](https://github.com/trim21/dprint-pre-commit) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (today)
-- [bangumi/submit-patch](https://github.com/bangumi/submit-patch) -  (today)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
-- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (1 day ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (2 days ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (2 days ago)
-- [trim21/actions](https://github.com/trim21/actions) -  (2 days ago)
-- [trim21/go-bencode](https://github.com/trim21/go-bencode) -  (2 days ago)
+- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (today)
+- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (today)
+- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (today)
+- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock) -  (today)
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (today)
+- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (today)
+- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (today)
+- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (1 day ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
 
 #### Repositories I created recently
 
+- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors)
+- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock)
+- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock)
 - [trim21/qt6-linux-aarch64-can-not-get-version](https://github.com/trim21/qt6-linux-aarch64-can-not-get-version)
 - [trim21/qbittorrent-feedstock](https://github.com/trim21/qbittorrent-feedstock)
-- [trim21/rueidis-prom](https://github.com/trim21/rueidis-prom) - a rueidis hook to export metrics to prometheus
-- [trim21/search](https://github.com/trim21/search)
-- [trim21/test](https://github.com/trim21/test)
