@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (today)
-- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (today)
-- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (today)
-- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock) -  (today)
-- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (today)
 - [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (today)
-- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (today)
-- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (1 day ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (1 day ago)
+- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (1 day ago)
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (1 day ago)
+- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (1 day ago)
+- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock) -  (1 day ago)
+- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (1 day ago)
+- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 day ago)
+- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (1 day ago)
+- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (2 days ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
 
 #### Repositories I created recently
 
