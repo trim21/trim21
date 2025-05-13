@@ -8,15 +8,15 @@
 #### I'm currently working on
 
 - [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (1 day ago)
-- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (1 day ago)
-- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (1 day ago)
-- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock) -  (1 day ago)
-- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (1 day ago)
-- [trim21/bgm-tv-userscripts](https://github.com/trim21/bgm-tv-userscripts) -  (1 day ago)
-- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (2 days ago)
-- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (2 days ago)
+- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
+- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (today)
+- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (today)
+- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (2 days ago)
+- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (2 days ago)
+- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (2 days ago)
+- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock) -  (2 days ago)
+- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (2 days ago)
 
 #### Repositories I created recently
 
