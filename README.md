@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
-- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (today)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (today)
-- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (today)
-- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (today)
-- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (2 days ago)
-- [conda/rattler](https://github.com/conda/rattler) - Rust crates to work with the Conda ecosystem. (2 days ago)
-- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (2 days ago)
-- [trim21/libvalkey-py-feedstock](https://github.com/trim21/libvalkey-py-feedstock) -  (2 days ago)
-- [trim21/asio-loop](https://github.com/trim21/asio-loop) -  (2 days ago)
+- [trim21/bangumi-pages](https://github.com/trim21/bangumi-pages) -  (today)
+- [bangumi/Archive](https://github.com/bangumi/Archive) - Wiki Data Public Archive (today)
+- [bangumi/server-private](https://github.com/bangumi/server-private) - HTTP sever for private api (today)
+- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (today)
+- [trim21/search](https://github.com/trim21/search) -  (today)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
+- [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (1 day ago)
+- [BGmi/anime-episode-parser](https://github.com/BGmi/anime-episode-parser) - A library to parse episode info from anime title (1 day ago)
+- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (1 day ago)
+- [trim21/libvalkey-feedstock](https://github.com/trim21/libvalkey-feedstock) -  (1 day ago)
 
 #### Repositories I created recently
 
