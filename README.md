@@ -7,16 +7,16 @@
 
 #### I'm currently working on
 
+- [trim21/search](https://github.com/trim21/search) -  (today)
+- [trim21/dprint-py](https://github.com/trim21/dprint-py) - a pypi release of dprint (today)
 - [trim21/pypi-feedstocks](https://github.com/trim21/pypi-feedstocks) -  (today)
-- [conda-forge/libvalkey-py-feedstock](https://github.com/conda-forge/libvalkey-py-feedstock) - A conda-smithy repository for libvalkey-py. (1 day ago)
-- [trim21/neptune](https://github.com/trim21/neptune) -  (1 day ago)
-- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (1 day ago)
-- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (1 day ago)
-- [trim21/crontab](https://github.com/trim21/crontab) -  (1 day ago)
-- [conda-forge/valkey-py-feedstock](https://github.com/conda-forge/valkey-py-feedstock) - A conda-smithy repository for valkey-py. (1 day ago)
-- [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes) - A place to submit conda recipes before they become fully fledged conda-forge feedstocks (2 days ago)
-- [trim21/conda-channel-mirrors](https://github.com/trim21/conda-channel-mirrors) -  (2 days ago)
-- [trim21/go-phpserialize](https://github.com/trim21/go-phpserialize) - PHP `serialize` and `unserialize` in Golang (2 days ago)
+- [trim21/dprint-pre-commit](https://github.com/trim21/dprint-pre-commit) -  (today)
+- [trim21/neptune](https://github.com/trim21/neptune) -  (2 days ago)
+- [trim21/bencode-py](https://github.com/trim21/bencode-py) - A fast and correct bencode serialize/deserialize library in python (2 days ago)
+- [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv (2 days ago)
+- [conda-forge/valkey-py-feedstock](https://github.com/conda-forge/valkey-py-feedstock) - A conda-smithy repository for valkey-py. (2 days ago)
+- [conda-forge/libvalkey-py-feedstock](https://github.com/conda-forge/libvalkey-py-feedstock) - A conda-smithy repository for libvalkey-py. (2 days ago)
+- [trim21/crontab](https://github.com/trim21/crontab) -  (2 days ago)
 
 #### Repositories I created recently
 
