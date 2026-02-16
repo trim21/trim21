@@ -8,7 +8,6 @@
 
 ## Projects
 
-- beancount with a rust parser: https://github.com/trim21/beancount
-- beancount lsp: https://github.com/trim21/beancount-lsp
+- beancount lsp and vscode extension: https://github.com/trim21/beancount-lsp
 - beancount AST python API: https://github.com/trim21/beancount-ast
 - beancount formatter: https://github.com/trim21/beancount-format
